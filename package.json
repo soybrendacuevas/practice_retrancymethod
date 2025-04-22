@@ -1,0 +1,16 @@
+{
+  "name": "reentrancy-practice",
+  "version": "1.0.0",
+  "description": "Practice repository for reentrancy vulnerability in smart contracts",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "truffle test",
+    "migrate": "truffle migrate"
+  },
+  "author": "@soybrendacuevas",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.4.29",
+    "web3": "^1.5.2"
+  }
+}
